@@ -1,0 +1,161 @@
+{
+  "Alist": {
+        "小雅": "http://alist.xiaoya.pro", 
+        "本地": "http://192.168.100.1:8085",
+        "杜比高清影视": "https://dubi.tk",
+        "米奇妙妙屋": "https://anime.mqmmw.ga", 
+        "小兵组网盘影视": "https://6vv.app", 
+        "一只鱼": "https://alist.youte.ml", 
+        "七米蓝": "https://al.chirmyram.com",   
+        "灭火器": "https://alist1.owen10086.repl.co", 
+        "轻弹浅唱": "https://g.xiang.lol", 
+        "晴园的宝藏库": "https://alist.52qy.repl.co", 
+        "菊花盘": "https://pan.142856.xyz", 
+        "星梦": "https://pan.bashroot.top", 
+        "小江": "https://dyj.me", 
+        "触光": "https://pan.ichuguang.com", 
+        "好汉吧": "https://8023.haohanba.cn", 
+        "DISK": "http://124.222.140.243:8080",  
+        "SB盘": "http://sbpan.tk", 
+        "西南第一捧心人": "http://116.205.232.165:5244", 
+        "神族九帝(教育)": "https://alist.shenzjd.com", 
+        "课程搜索": "https://www.souke365.cn", 
+        "姬路白雪": "https://pan.jlbx.xyz", 
+        "博哥": "http://www.top12345.top",
+        "9T(Adult)": "https://drive.9t.ee"
+  },
+  "YSDQ": {
+    "thlimit": 5,
+    "searchList": "qq,ik,bb,ps,ys,xzt",
+    "speedLimit": "1K",
+    "disableIPV6": "no",
+    "ocrurl": "https://api.nn.ci/ocr/b64/text",
+    "ads": [
+      "mimg.0c1q0l.cn",
+      "www.googletagmanager.com",
+      "www.google-analytics.com",
+      "mc.usihnbcq.cn",
+      "mg.g1mm3d.cn",
+      "mscs.svaeuzh.cn",
+      "cnzz.hhttm.top",
+      "tp.vinuxhome.com",
+      "cnzz.mmstat.com",
+      "www.baihuillq.com",
+      "s23.cnzz.com",
+      "z3.cnzz.com",
+      "c.cnzz.com",
+      "stj.v1vo.top",
+      "z12.cnzz.com",
+      "img.mosflower.cn",
+      "tips.gamevvip.com",
+      "ehwe.yhdtns.com",
+      "xdn.cqqc3.com",
+      "www.jixunkyy.cn",
+      "sp.chemacid.cn",
+      "hm.baidu.com",
+      "s9.cnzz.com",
+      "z6.cnzz.com",
+      "um.cavuc.com",
+      "mav.mavuz.com",
+      "wofwk.aoidf3.com",
+      "z5.cnzz.com",
+      "xc.hubeijieshikj.cn",
+      "tj.tianwenhu.com",
+      "xg.gars57.cn",
+      "k.jinxiuzhilv.com",
+      "cdn.bootcss.com",
+      "ppl.xunzhuo123.com",
+      "xomk.jiangjunmh.top",
+      "img.xunzhuo123.com",
+      "z1.cnzz.com",
+      "s13.cnzz.com",
+      "xg.huataisangao.cn",
+      "z7.cnzz.com",
+      "xg.huataisangao.cn",
+      "z2.cnzz.com",
+      "s96.cnzz.com",
+      "q11.cnzz.com",
+      "thy.dacedsfa.cn",
+      "xg.whsbpw.cn",
+      "s19.cnzz.com",
+      "z8.cnzz.com",
+      "s4.cnzz.com",
+      "f5w.as12df.top",
+      "ae01.alicdn.com",
+      "www.92424.cn",
+      "k.wudejia.com",
+      "vivovip.mmszxc.top",
+      "qiu.xixiqiu.com",
+      "cdnjs.hnfenxun.com",
+      "cms.qdwght.com",
+      "iqiyi.hbuioo.com"
+    ],
+    "T4api": [
+      {
+        "name": "网飞",
+        "api": "http://192.168.1.1:1234/{删除内部文字，保留中括号}/更换为自己的id/更换为自己的secret/yanet"
+      },
+      {
+        "name": "明日",
+        "api": "http://192.168.1.1:1234/{删除内部文字，保留中括号}/更换为自己的id/更换为自己的secret/mrys"
+      }
+    ],
+    "CJapi": [
+      {
+        "name": "量子",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+      },
+      {
+        "name": "酷点",
+        "api": "https://kudian10.com/api.php/provide/vod/from/kdm3u8/"
+      }
+    ]
+  },
+  "Ali": {
+    "token": "https://cjk.lm317379829.repl.co/CJK/token.txt"
+  },
+  "QiQi": [
+    {
+      "jx": "http://lanlan.ckflv.cn/?url=",
+      "jxfrom": "other",
+      "gs": "data,url",
+      "erro": ""
+    },
+    {
+      "jx": "http://110.42.2.115:880/analysis/json/?uid=2100&my=XXXXXXXX&mgtv=app&url=",
+      "gs": "url",
+      "jxfrom": "QiQi",
+      "erro": "500"
+    }
+  ],
+  "Bili": {
+    "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/cookie.txt",
+    "category": "健身,刘畊宏 9月21日|相声,相声小品"
+  },
+  "Zhaozy": {
+    "username": "Unbaked4136",
+    "password": "4hzxQkB9yxX5EP"
+  },
+  "Zhibo": [
+    {
+      "pf": "douyu",
+      "id": "208",
+      "name": "斗鱼-一起看"
+    },
+    {
+      "pf": "bilibili",
+      "id": "6",
+      "name": "B站-单机游戏"
+    },
+    {
+      "pf": "huya",
+      "id": "2135",
+      "name": "虎牙-一起看"
+    },
+    {
+      "pf": "sport",
+      "id": "sport",
+      "name": "体育-全部"
+    }
+  ]
+}
